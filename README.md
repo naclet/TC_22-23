@@ -1,2 +1,2 @@
-# TC_22-23
-Prácticas de Teoría de la Comunicación
+# TEORIA DE LA COMUNICACIÓN
+APUNTES y Prácticas de Teoría de la Comunicación
